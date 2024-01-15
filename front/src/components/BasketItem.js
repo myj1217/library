@@ -14,7 +14,7 @@ const BasketItemBlock = styled.div`
     padding-top: 2rem;
     padding-bottom: 2rem;
     .chad {
-      padding: 0 20px;
+      padding: 0 21px;
       cursor: pointer;
       display: flex;
       align-items: center;
